@@ -1,0 +1,186 @@
+html {
+    background-color: #f3e5cf;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+.Title {
+    font-size: 5rem;
+    position: relative;
+    color: black;
+    text-align: center;
+    transform: translate(0rem, 15rem);
+}
+
+.AboutUs {
+    position: relative;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.5rem;
+
+    text-align: center;
+    color: #000000;
+
+    transform: rotate(-4.53deg)translate(-4rem, 50rem);
+}
+
+.AboutUsBorder {
+    position: relative;
+    width: 32.5rem;
+    height: 10.5rem;
+    
+    background: #E4D5B6;
+    border: 0.5rem solid #000000;
+    box-sizing: border-box;
+    border-radius: 50px;
+    font-size: 2rem;
+    transform: rotate(-4.25deg)translate(-1rem, 51.5rem);;
+    text-align: center; 
+}
+
+.SampleItems {
+    position: relative;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.5rem;
+
+    text-align: center;
+    color: #000000;
+
+    transform: translate(0rem, 85rem);
+}
+
+.SampleItemsBorder{
+    position: relative;
+    width: 37rem;
+    height: 30rem;
+    
+    background: #E4D5B6;
+    border: 3.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50px;
+
+    transform: translate(1rem, 90rem)
+}
+
+.SampleItemsBox1 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(2.5rem, 61.5rem);
+}
+
+.SampleItemsBox2 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(14.5rem, 51.5rem);
+}
+
+.SampleItemsBox3 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(26.5rem, 41.5rem);
+}
+.SampleItemsBox4 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(2.5rem, 48.5rem);
+}
+
+.SampleItemsBox5 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(14.5rem, 38.5rem);
+}
+
+.SampleItemsBox6 {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(26.5rem, 28.5rem);
+}
+
+.CustomerComments {
+    position: relative;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.5rem;
+
+    text-align: center;
+    color: #000000;
+
+    transform: rotate(3.49deg)translate(3.5rem, 50rem);
+}
+
+.CustomerCommentsCircle1 {
+    position: relative;
+    width: 12.5rem;
+    height: 12.5rem;
+    
+    background: #E4D5B6;
+    border: 0.5rem solid #000000;
+    box-sizing: border-box;
+    border-radius: 25rem;
+    transform: rotate(3.78deg)translate(4rem, 55rem);;
+}
+
+.CustomerCommentsCircle2 {
+    position: relative;
+    width: 12.5rem;
+    height: 12.5rem;
+    
+    background: #E4D5B6;
+    border: 0.5rem solid #000000;
+    box-sizing: border-box;
+    border-radius: 25rem;
+    transform: rotate(3.78deg)translate(16rem, 43.5rem);;
+}
+
+.CustomerCommentsCircle3 {
+    position: relative;
+    width: 12.5rem;
+    height: 12.5rem;
+    
+    background: #E4D5B6;
+    border: 0.5rem solid #000000;
+    box-sizing: border-box;
+    border-radius: 25rem;
+    transform: rotate(3.78deg)translate(28rem, 32.5rem);;
+}
