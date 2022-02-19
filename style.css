@@ -27,15 +27,15 @@ html {
 
 .AboutUsBorder {
     position: relative;
-    width: 32.5rem;
-    height: 10.5rem;
+    width: 32rem;
+    height: 10rem;
     
     background: #E4D5B6;
     border: 0.5rem solid #000000;
     box-sizing: border-box;
     border-radius: 50px;
     font-size: 2rem;
-    transform: rotate(-4.25deg)translate(-1rem, 51.5rem);;
+    transform: rotate(-4.25deg)translate(-3.5rem, 51.5rem);;
     text-align: center; 
 }
 
@@ -54,86 +54,122 @@ html {
 
 .SampleItemsBorder{
     position: relative;
-    width: 37rem;
-    height: 30rem;
+    width: 32.5rem;
+    height: 32.5rem;
     
     background: #E4D5B6;
     border: 3.5px solid #000000;
     box-sizing: border-box;
     border-radius: 50px;
 
-    transform: translate(1rem, 90rem)
+    transform: translate(0.1rem, 90rem)
 }
 
 .SampleItemsBox1 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(2.5rem, 61.5rem);
+    transform: translate(2.5rem, 59.5rem);
 }
 
 .SampleItemsBox2 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(14.5rem, 51.5rem);
+    transform: translate(12.5rem, 52rem);
 }
 
 .SampleItemsBox3 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(26.5rem, 41.5rem);
+    transform: translate(23rem, 44.5rem);
 }
 .SampleItemsBox4 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(2.5rem, 48.5rem);
+    transform: translate(2.5rem, 48rem);
 }
 
 .SampleItemsBox5 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(14.5rem, 38.5rem);
+    transform: translate(12.5rem, 40.5rem);
 }
 
 .SampleItemsBox6 {
     position: relative;
-    width: 10rem;
-    height: 10rem;
+    width: 7.5rem;
+    height: 7.5rem;
     
     background: #C4C4C4;
     border: 0.1rem solid #000000;
     box-sizing: border-box;
 
-    transform: translate(26.5rem, 28.5rem);
+    transform: translate(23rem, 33rem);
+}
+
+.SampleItemsBox7 {
+    position: relative;
+    width: 7.5rem;
+    height: 7.5rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(2.5rem, 35.5rem);
+}
+
+.SampleItemsBox8 {
+    position: relative;
+    width: 7.5rem;
+    height: 7.5rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(12.5rem, 28rem);
+}
+
+.SampleItemsBox9 {
+    position: relative;
+    width: 7.5rem;
+    height: 7.5rem;
+    
+    background: #C4C4C4;
+    border: 0.1rem solid #000000;
+    box-sizing: border-box;
+
+    transform: translate(23rem, 20.5rem);
 }
 
 .CustomerComments {
@@ -151,36 +187,36 @@ html {
 
 .CustomerCommentsCircle1 {
     position: relative;
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 10.5rem;
+    height: 10.5rem;
     
     background: #E4D5B6;
     border: 0.5rem solid #000000;
     box-sizing: border-box;
     border-radius: 25rem;
-    transform: rotate(3.78deg)translate(4rem, 55rem);;
+    transform: rotate(3.78deg)translate(3.5rem, 51.5rem);;
 }
 
 .CustomerCommentsCircle2 {
     position: relative;
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 10.5rem;
+    height: 10.5rem;
     
     background: #E4D5B6;
     border: 0.5rem solid #000000;
     box-sizing: border-box;
     border-radius: 25rem;
-    transform: rotate(3.78deg)translate(16rem, 43.5rem);;
+    transform: rotate(3.78deg)translate(14rem, 41.5rem);;
 }
 
 .CustomerCommentsCircle3 {
     position: relative;
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 10.5rem;
+    height: 10.5rem;
     
     background: #E4D5B6;
     border: 0.5rem solid #000000;
     box-sizing: border-box;
     border-radius: 25rem;
-    transform: rotate(3.78deg)translate(28rem, 32.5rem);;
+    transform: rotate(3.78deg)translate(24.5rem, 31.5rem);;
 }
